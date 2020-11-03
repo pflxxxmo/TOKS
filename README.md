@@ -1,7 +1,5 @@
 # TOKS
 ---
-h1 Theoretical_Foundations_of_Computer_Networks
----
 1 Лаба- передача данных через COM порт
 ---
 2 Лаба - бит-стаффинг
