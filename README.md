@@ -1,6 +1,6 @@
 # TOKS
 ---
-h1Theoretical_Foundations_of_Computer_Networks
+h1 Theoretical_Foundations_of_Computer_Networks
 ---
 1 Лаба- передача данных через COM порт
 ---
