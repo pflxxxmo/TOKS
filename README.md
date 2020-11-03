@@ -1,8 +1,8 @@
 # TOKS
 ---
-1 Лаба- передача данных через COM порт
+1 Лаба- передача данных через COM порт([Отчёт](https://github.com/pflxxxmo/TOKS/blob/main/TOKS.docx))
 ---
-2 Лаба - бит-стаффинг
+2 Лаба - бит-стаффинг([Отчёт](https://github.com/pflxxxmo/TOKS/blob/main/TOKS_2.docx))
 ---
-3 Лаба - CRC код([Отчёт](https://github.com/pflxxxmo/TOKS/blob/main/TOKS_2.docx))
+3 Лаба - CRC код([Отчёт](https://github.com/pflxxxmo/TOKS/blob/main/TOKS%20CRC.xlsx))
 ---
