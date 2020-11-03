@@ -1,0 +1,13 @@
+﻿  Source.cpp
+  func.cpp
+D:\Visual Studio\5\TOKS\server\server\func.cpp(107,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\5\TOKS\server\server\func.cpp(115,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\5\TOKS\server\server\func.cpp(117,24): warning C4244: аргумент: преобразование "long" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Visual Studio\5\TOKS\server\server\func.cpp(124,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\Visual Studio\5\TOKS\server\server\func.cpp(29): warning C4715: read: значение возвращается не при всех путях выполнения
+  server.vcxproj -> D:\Visual Studio\5\TOKS\server\Debug\server.exe

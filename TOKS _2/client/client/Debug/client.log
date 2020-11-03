@@ -1,0 +1,14 @@
+﻿  func.cpp
+D:\Visual Studio\5\TOKS\client\client\func.cpp(107,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\5\TOKS\client\client\func.cpp(115,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Visual Studio\5\TOKS\client\client\func.cpp(117,24): warning C4244: аргумент: преобразование "long" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+D:\Visual Studio\5\TOKS\client\client\func.cpp(124,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  Source.cpp
+D:\Visual Studio\5\TOKS\client\client\Source.cpp(6,9): warning C4101: size: неиспользованная локальная переменная
+  Создание кода...
+D:\Visual Studio\5\TOKS\client\client\func.cpp(29): warning C4715: read: значение возвращается не при всех путях выполнения
+  client.vcxproj -> D:\Visual Studio\5\TOKS\client\Debug\client.exe
