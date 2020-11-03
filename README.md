@@ -1,6 +1,6 @@
 # TOKS
 ---
-1 Лаба- передача данных через COM порт([Отчёт](https://github.com/pflxxxmo/TOKS/blob/main/TOKS.docx))
+1 Лаба - передача данных через COM порт([Отчёт](https://github.com/pflxxxmo/TOKS/blob/main/TOKS.docx))
 ---
 2 Лаба - бит-стаффинг([Отчёт](https://github.com/pflxxxmo/TOKS/blob/main/TOKS_2.docx))
 ---
