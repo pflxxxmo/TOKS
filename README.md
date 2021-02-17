@@ -6,3 +6,7 @@
 ---
 3 Лаба - CRC код([Отчёт](https://github.com/pflxxxmo/TOKS/blob/main/TOKS%20CRC.xlsx))
 ---
+4 Лаба - CSMA_CD код
+---
+5 Лаба - Token Ring код
+---
